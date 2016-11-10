@@ -1,0 +1,12 @@
+http://juliaquinn.com/
+
+For this site, MVC would be helpful in organizing the code and separating it 
+into smaller parts that are more easily adjusted and updated.
+It is pretty clear this site is outdated, changing the code would 
+be significantly more time consuming when it's not in MVC form.
+Using MVC on this site would make it easier to add Bootstrap and JavaScript and make it
+more UX.
+
+This site also has a lot of information in an unorganized fashion, MVC could help to 
+organize the information into smaller more UX friendly sections.
+MVC is primarily used for more creating more readable code. 
